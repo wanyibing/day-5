@@ -6,5 +6,6 @@ public class Demo {
 		
 		System.out.println("修改代码");
 		System.out.println("123");
+		System.out.println("123");
 	}
 }
